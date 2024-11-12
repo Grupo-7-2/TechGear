@@ -9,10 +9,10 @@ Link do Padlet: [Clique Aqui](https://padlet.com/pbittencourt1/kanban-v326mjk2sn
 
 ***1.1.  (Grupo 7)-2***
 
-[:+1441:Leonardo Cruz](https://github.com/HiperD)
-[:+1441:Mathew Cayres](https://github.com/MattCayres)
-[:+1441:Vinicius Henrique](https://github.com/Vinicius-Henrique1609)
-[:+1441:Carlos Sert](https://github.com/CarlosSertF)
+[Leonardo Cruz](https://github.com/HiperD)
+[Mathew Cayres](https://github.com/MattCayres)
+[Vinicius Henrique](https://github.com/Vinicius-Henrique1609)
+[Carlos Sert](https://github.com/CarlosSertF)
 
 ***1.2.  Nome do Sistema***
 
