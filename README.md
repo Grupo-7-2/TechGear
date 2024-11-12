@@ -3,13 +3,16 @@
 
 Olá! Este repositório faz parte do projeto da disciplina de Requisitos de Software da UTFPR - Campus Cornélio Procópio. 
 
-Link do Padlet:
+Link do Padlet: [Clique Aqui](https://padlet.com/pbittencourt1/kanban-v326mjk2snxqv5c6)
 
 ## 1. Introdução
 
-***1.1.  Nome do Grupo***
+***1.1.  (Grupo 7)-2***
 
-Indicar o nome e github dos integrantes do grupo
+[⛓️Leonardo Cruz](https://github.com/HiperD)
+[⛓️Mathew Cayres](https://github.com/MattCayres)
+[⛓️Vinicius Henrique](https://github.com/Vinicius-Henrique1609)
+[⛓️Carlos Sert](https://github.com/CarlosSertF)
 
 ***1.2.  Nome do Sistema***
 
