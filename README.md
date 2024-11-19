@@ -17,7 +17,7 @@ Link do Padlet: [Clique Aqui](https://padlet.com/pbittencourt1/kanban-v326mjk2sn
 
 ***1.2.  Nome do Sistema***
 
-Indicar o nome do software proposto
+**TechGear**
 
 ***1.3.  Propósito do Sistema***
 
