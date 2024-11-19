@@ -61,11 +61,21 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 
 ***2.1. Requisitos Funcionais***
 
-*<Link, imagem, arquivo com os requisitos funcionais.>*
+| ID | Descrição | Prioridade | Depende de |
+| - | - | - | - |
+| RF-01 | O software deve ser capaz de gerar um relatório sobre o PC do usuário. | - | - |
+| RF-02 | O software deve ser capaz de verificar a compatibilidade entre os componentes do sistema do usuário. | - | - |
+| RF-03 | O software deve ser capaz de sugerir as melhores combinações de peças para usuário, conforme a sua necessidade. O software também deve ser capaz de entender as necessidades do usuário a partir das informações dadas pelo mesmo.| - | - |
+| RF-04 | O software deve permitir criar uma nova configuração de equipamento. | - | - |
+| RF-05 | O software deve armazenar informações sobre os dados dos componentes e sobre os resultados de benchmark. | - | - |
+| RF-06 | O software deve armazenar informações sobre os dados dos componentes e sobre os resultados de benchmark. | - | - |
 
 ***2.2. Requisitos Não Funcionais***
 
-*<Link, imagem, arquivo com os requisitos não funcionais.>*
+| ID | Descrição | Prioridade |
+| - | - | - |
+| RNF-01 | O software deve ter uma interface  intuitiva para que todos os usuários, sejam eles experts ou não, consigam utilizar o software. Para isso, as informações úteis ao usuário devem ser exibidas de uma  forma simples, havendo uma forma de explicá-las. | - | - |
+| RNF-02 | Para facilitar o benchmark de componentes e sistemas de hardwares inteiros, o software deve ser capaz de realizar os testes de benchmark nas máquinas dos usuários do software. | - |
 
 ***2.3. Perguntas***
 
