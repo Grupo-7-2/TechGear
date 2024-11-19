@@ -83,6 +83,8 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 | RNF-06 | O sistema deve funcionar 24 horas. | - |
 | RNF-07 | O sistema deve ser compatível com sistema Android e Ios. | - |
 | RNF-08 | O sistema não deve disponibilizar a função de listagem de peças da máquina se o aplicativo estiver sendo executado em um dispositivo móvel.  | - |
+| RNF-09 | O sistema deve possuir os temas claro e escuro  | - |
+| RNF-10 | O sistema deve ser inicialmente em português e, posteriormente, deve ser traduzido para inglês  | - |
 
 ***2.3. Perguntas***
 
