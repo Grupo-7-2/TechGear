@@ -27,6 +27,26 @@ Um computador é um sistema complexo composto por várias peças que, juntas, po
 
 ***1.4.  Público Alvo***
 
+O público-alvo do sistema **TechGear** abrange qualquer pessoa ou organização interessada em adquirir ou melhorar computadores de forma eficiente, com foco no melhor custo-benefício. O sistema atende:
+
+**1. Usuários Leigos**
+- Pessoas sem conhecimento técnico sobre hardware, como idosos ou estudantes.
+- Precisam de uma interface amigável e explicações claras para realizar escolhas adequadas.
+
+**2. Usuários Experientes**
+- Desenvolvedores de software, gamers e entusiastas de tecnologia.
+- Buscam otimizar suas configurações com informações detalhadas e precisas.
+
+**3. Empresas**
+- Organizações que necessitam adquirir múltiplos computadores para uso interno.
+- O foco está na escolha de máquinas adequadas às tarefas corporativas, maximizando a eficiência.
+
+O **TechGear** é projetado para oferecer soluções personalizadas para todos esses perfis, garantindo que tanto usuários iniciantes quanto especialistas encontrem valor em suas funcionalidades.
+
+
+
+
+
 Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
 
 ***1.5. Descrição dos usuários***
@@ -63,13 +83,13 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 
 | ID | Descrição | Prioridade | Depende de |
 | - | - | - | - |
-| RF-01 | O software deve ser capaz de gerar um relatório sobre o PC do usuário. | Média | RNF-10 |
-| RF-02 | O software deve ser capaz de verificar a compatibilidade entre os componentes do sistema do usuário. | Alta | - |
-| RF-03 | O software deve ser capaz de sugerir as melhores combinações de peças para usuário, conforme a sua necessidade e as peças que o mesmo já possui. | Alta | RNF-10, RNF-04 |
-| RF-04 | O software deve permitir criar uma nova configuração de equipamento. | Alta | RNF-04 |
-| RF-05 | O software deve armazenar informações sobre os dados dos componentes e sobre os resultados de benchmark. | Alta | - |
-| RF-06 | O sistema deverá entregar uma visão geral sobre a máquina do usuário, pontos positivos e negativos da sua máquinaa em relação à necessidade do usuário. | Média | - |
-| RF-07 | O software também deve ser capaz de entender as necessidades do usuário a partir das informações dadas pelo mesmo. | Alta | - |
+| RF-01 | O sistema deve ser capaz de gerar um relatório sobre o PC do usuário. | Média | RNF-10 |
+| RF-02 | O sistema deve ser capaz de verificar a compatibilidade entre os componentes do sistema do usuário. | Alta | - |
+| RF-03 | O sistema deve ser capaz de sugerir as melhores combinações de peças para usuário, conforme a sua necessidade e as peças que o mesmo já possui. | Alta | RNF-10, RNF-04 |
+| RF-04 | O sistema deve permitir criar uma nova configuração de equipamento. | Alta | RNF-04 |
+| RF-05 | O sistema deve armazenar informações sobre os dados dos componentes e sobre os resultados de benchmark. | Alta | - |
+| RF-06 | O sistema deve entregar uma visão geral sobre a máquina do usuário, pontos positivos e negativos da sua máquinaa em relação à necessidade do usuário. | Média | - |
+| RF-07 | O sistema também deve ser capaz de entender as necessidades do usuário a partir das informações dadas pelo mesmo. | Alta | - |
 | RF-08 | O sistema deve possuir um banco de dados online onde deve ser armazenado resultados de benchmark, configurações de peças e seus preços atualizados | Alta | - |
 | RF-09 | o sistema deve operar em conjunto com sites de compra de peças de hardware, mostrando os melhores preços e suas respectivas lojas. | Alta | - |
 
@@ -77,8 +97,8 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 
 | ID | Descrição | Prioridade |
 | - | - | - |
-| RNF-01 | O software deve ter uma interface  intuitiva para que todos os usuários, sejam eles experts ou não, consigam utilizar o software. Para isso, as informações úteis ao usuário devem ser exibidas de uma  forma simples, havendo uma forma de explicá-las. | Alta |
-| RNF-02 | Para facilitar o benchmark de componentes e sistemas de hardwares inteiros, o software deve ser capaz de realizar os testes de benchmark nas máquinas dos usuários do software. | Alta |
+| RNF-01 | O sistema deve ter uma interface  intuitiva para que todos os usuários, sejam eles experts ou não, consigam utilizar o software. Para isso, as informações úteis ao usuário devem ser exibidas de uma  forma simples, havendo uma forma de explicá-las. | Alta |
+| RNF-02 | O software deve ser capaz de realizar os testes de benchmark nas máquinas dos usuários do software a fim facilitar o benchmark de componentes e sistemas de hardwares inteiros,  | Alta |
 | RNF-03 | O sistema deve ter uma seção de usuário que pode mostrar suas informações e preferências conforme obtidas no cadastro do mesmo. | Média |
 | RNF-04 | O sistema deve manter privadas as informações pessoais de cada usuário. | Alta |
 | RNF-05 | O sistema deve funcionar 24 horas. | Alta |
