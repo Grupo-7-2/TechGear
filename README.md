@@ -63,28 +63,29 @@ Este documento se destina aos arquitetos de software, engenheiros de software, t
 
 | ID | Descrição | Prioridade | Depende de |
 | - | - | - | - |
-| RF-01 | O software deve ser capaz de gerar um relatório sobre o PC do usuário. | - | - |
-| RF-02 | O software deve ser capaz de verificar a compatibilidade entre os componentes do sistema do usuário. | - | - |
-| RF-03 | O software deve ser capaz de sugerir as melhores combinações de peças para usuário, conforme a sua necessidade. O software também deve ser capaz de entender as necessidades do usuário a partir das informações dadas pelo mesmo.| - | - |
-| RF-04 | O software deve permitir criar uma nova configuração de equipamento. | - | - |
-| RF-05 | O software deve armazenar informações sobre os dados dos componentes e sobre os resultados de benchmark. | - | - |
-| RF-06 | O sistema deverá entregar uma visão geral sobre a máquina do usuário, pontos positivos e negativos da sua máquina em relação à necessidade do usuário. | - | - |
+| RF-01 | O software deve ser capaz de gerar um relatório sobre o PC do usuário. | Média | - |
+| RF-02 | O software deve ser capaz de verificar a compatibilidade entre os componentes do sistema do usuário. | Alta | - |
+| RF-03 | O software deve ser capaz de sugerir as melhores combinações de peças para usuário, conforme a sua necessidade. | Alta | - |
+| RF-04 | O software deve permitir criar uma nova configuração de equipamento. | Alta | - |
+| RF-05 | O software deve armazenar informações sobre os dados dos componentes e sobre os resultados de benchmark. | Alta | - |
+| RF-06 | O sistema deverá entregar uma visão geral sobre a máquina do usuário, pontos positivos e negativos da sua máquinaa em relação à necessidade do usuário. | Média | - |
+| RF-07 | O software também deve ser capaz de entender as necessidades do usuário a partir das informações dadas pelo mesmo. | Alta | - |
 
 
 ***2.2. Requisitos Não Funcionais***
 
 | ID | Descrição | Prioridade |
 | - | - | - |
-| RNF-01 | O software deve ter uma interface  intuitiva para que todos os usuários, sejam eles experts ou não, consigam utilizar o software. Para isso, as informações úteis ao usuário devem ser exibidas de uma  forma simples, havendo uma forma de explicá-las. | - |
-| RNF-02 | Para facilitar o benchmark de componentes e sistemas de hardwares inteiros, o software deve ser capaz de realizar os testes de benchmark nas máquinas dos usuários do software. | - |
-| RNF-03 | O sistema deve ter uma seção de usuário que pode mostrar suas informações e preferências conforme obtidas no cadastro do mesmo. | - |
+| RNF-01 | O software deve ter uma interface  intuitiva para que todos os usuários, sejam eles experts ou não, consigam utilizar o software. Para isso, as informações úteis ao usuário devem ser exibidas de uma  forma simples, havendo uma forma de explicá-las. | Alta |
+| RNF-02 | Para facilitar o benchmark de componentes e sistemas de hardwares inteiros, o software deve ser capaz de realizar os testes de benchmark nas máquinas dos usuários do software. | Alta |
+| RNF-03 | O sistema deve ter uma seção de usuário que pode mostrar suas informações e preferências conforme obtidas no cadastro do mesmo. | Média |
 | RNF-04 | o sistema deve operar em conjunto com sites de compra de peças de hardware, mostrando os melhores preços e suas respectivas lojas. | - |
-| RNF-05 | O sistema deve manter privadas as informações pessoais de cada usuário. | - |
-| RNF-06 | O sistema deve funcionar 24 horas. | - |
-| RNF-07 | O sistema deve ser compatível com sistema Android e Ios. | - |
-| RNF-08 | O sistema não deve disponibilizar a função de listagem de peças da máquina se o aplicativo estiver sendo executado em um dispositivo móvel.  | - |
-| RNF-09 | O sistema deve possuir os temas claro e escuro  | - |
-| RNF-10 | O sistema deve ser inicialmente em português e, posteriormente, deve ser traduzido para inglês  | - |
+| RNF-05 | O sistema deve manter privadas as informações pessoais de cada usuário. | Alta |
+| RNF-06 | O sistema deve funcionar 24 horas. | Alta |
+| RNF-07 | O sistema deve ser compatível com os sistemas Android, Ios, Windows e Linux. | Alta |
+| RNF-08 | O sistema não deve disponibilizar a função de listagem de peças da máquina se o aplicativo estiver sendo executado em um dispositivo móvel.  | Média |
+| RNF-09 | O sistema deve possuir os temas claro e escuro  | Baixa |
+| RNF-10 | O sistema deve ser inicialmente em português e, posteriormente, deve ser traduzido para inglês  | Alta |
 
 ***2.3. Perguntas***
 
