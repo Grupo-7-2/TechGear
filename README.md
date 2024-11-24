@@ -27,31 +27,17 @@ Um computador é um sistema complexo composto por várias peças que, juntas, po
 
 ***1.4.  Público Alvo***
 
-O público-alvo do sistema **TechGear** abrange qualquer pessoa ou organização interessada em adquirir ou melhorar computadores de forma eficiente, com foco no melhor custo-benefício. O sistema atende:
-
-**1. Usuários Leigos**
-- Pessoas sem conhecimento técnico sobre hardware, como idosos ou estudantes.
-- Precisam de uma interface amigável e explicações claras para realizar escolhas adequadas.
-
-**2. Usuários Experientes**
-- Desenvolvedores de software, gamers e entusiastas de tecnologia.
-- Buscam otimizar suas configurações com informações detalhadas e precisas.
-
-**3. Empresas**
-- Organizações que necessitam adquirir múltiplos computadores para uso interno.
-- O foco está na escolha de máquinas adequadas às tarefas corporativas, maximizando a eficiência.
-
-O **TechGear** é projetado para oferecer soluções personalizadas para todos esses perfis, garantindo que tanto usuários iniciantes quanto especialistas encontrem valor em suas funcionalidades.
-
-
-
-
-
-Este documento se destina aos arquitetos de software, engenheiros de software, testadores, clientes... *<descrever aqui se existir mais interessados e que participarão do desenvolvimento do sistema>*
+O público-alvo do sistema **TechGear** abrange qualquer pessoa interessada em adquirir ou melhorar computadores de forma eficiente, com foco no melhor custo-benefício. O sistema atende, por exemplo, usuários leigos, usuários experientes;
 
 ***1.5. Descrição dos usuários***
 
 *<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
+
+| **Usuários** | Porcentagem | Faixa Etária | Gênero | Frequência de uso de PC | Nível de conhecimento sobre o hardware de um PC |
+| - | - | - | - | - | - |
+| **Usuários Leigos** | - | - | - | - | - |
+| **Usuários Experientes** | - | - | - | - | - |
+
 
 ***Personas:***
 
