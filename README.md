@@ -40,8 +40,6 @@ O público-alvo do sistema **TechGear** abrange qualquer pessoa interessada em a
 
 
 ***Personas:***
-
-*<Imagem, arquivo (PDF), link com as Personas.>*
 ![Persona 1](1.jpg)
 ![Persona 1](2.jpg)
 
