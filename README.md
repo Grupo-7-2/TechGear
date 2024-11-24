@@ -95,7 +95,6 @@ O público-alvo do sistema **TechGear** abrange qualquer pessoa interessada em a
 
 ***2.3. Perguntas***
 
-*<Arquivo com as perguntas realizadas na entrevista .>*
 - **Pergunta 1**:
    - Possível entrevistado: um usuário leigo em computação e um usuário entendido sobre computação;
    - Pergunta: O que você espera de um sistema que lhe ajude a comprar e/ou melhorar o seu PC?
