@@ -57,11 +57,11 @@ O público-alvo do sistema **TechGear** abrange qualquer pessoa interessada em a
 
 ***Cenário: Antes***
 
-*<Preencher com o cenário idealizado antes da aplicação do seu sistema.>*
+Com a constante evolução da tecnologia e necessidade de estar dentro das tendências mais atuais para assim trabalhar, estudar ou se divertir, é necessário sempre atualizar os dispositivos com as peças mais ideais, o que envolve horas e horas de pesquisa, reviews, análise de preço e por muitas vezes ter que procurar o que cada peça faz dentro da composição de um computador, isso sem falar na compatibilidade das peças e sem uma ferramenta para auxiliar, isso acaba afastando as pessoas de fazer um upgrade por falta de tempo e/ou conhecimento, logo deixando a necessidade de renovação postergada.
 
 ***Cenário: Depois***
 
-*<Preencher com o cenário idealizado depois da aplicação do seu sistema.>*
+Depois de aderir ao aplicativo, o usuário, agora introduzido a toda a interface e com o questionário respondido consegue ver a configuração que melhor atende as suas necessidades, junto com algumas alterações para suprir algumas atividades as quais possam vir a ser necessárias, sem precisar sair por toda a intenet pra pesquisar peça por peça e evitando que, se mais leigo, ter de aprender o que cada peça faz em seu computador e obtendo, além de uma análise completa de seu dispositivo atual, os componentes necessários para vir a melhorar o desempenho da máquina tanto no geral quanto nas tarefas de prioridade e, por fim, o link para compra com o melhor preço para cada respectiva peça.
 
 ## 2. Documentos gerais no repositório
 
