@@ -99,32 +99,32 @@ O público-alvo do sistema **TechGear** abrange qualquer pessoa interessada em a
    - Possível entrevistado: um usuário leigo em computação e um usuário entendido sobre computação;
    - Pergunta: O que você espera de um sistema que lhe ajude a comprar e/ou melhorar o seu PC?
 - **Pergunta 2**:
-   - Possível entrevistado: ;
-   - Pergunta: 
+   - Possível entrevistado: um profissional técnico na área de hardware;
+   - Pergunta: Quais informações sobre o desempenho do hardware você considera essenciais para avaliar um sistema?
 - **Pergunta 3**:
-   - Possível entrevistado: ;
-   - Pergunta: 
+   - Possível entrevistado: um gamer ou entusiasta de jogos;
+   - Pergunta: Como você escolhe as configurações ideais para um PC voltado para jogos?
 - **Pergunta 4**:
-   - Possível entrevistado: ;
-   - Pergunta: 
+   - Possível entrevistado: um usuário com interesse em produtividade;
+   - Pergunta: Quais características de um PC você prioriza para tarefas de trabalho ou estudo?
 - **Pergunta 5**:
-   - Possível entrevistado: ;
-   - Pergunta: 
+   - Possível entrevistado: um vendedor ou especialista em lojas de hardware;
+   - Pergunta: Quais são as dúvidas mais comuns dos clientes ao comprar peças ou montar um computador?
 - **Pergunta 6**:
-   - Possível entrevistado: ;
-   - Pergunta: 
+   - Possível entrevistado: um desenvolvedor de software;
+   - Pergunta: Qual seria a melhor forma de um sistema comunicar informações técnicas para usuários leigos?
 - **Pergunta 7**:
-   - Possível entrevistado: ;
-   - Pergunta: 
+   - Possível entrevistado: um técnico em informática;
+   - Pergunta: Quais são os principais problemas encontrados ao tentar melhorar a configuração de PCs de clientes?
 - **Pergunta 8**:
-   - Possível entrevistado: ;
-   - Pergunta: 
+   - Possível entrevistado: um usuário casual que utiliza o PC principalmente para navegar na internet;
+   - Pergunta: Você considera importante entender os componentes do seu computador? Por quê?
 - **Pergunta 9**:
-   - Possível entrevistado: ;
-   - Pergunta: 
+   - Possível entrevistado: um especialista em compras online de hardware;
+   - Pergunta: Quais fatores você analisa ao buscar o melhor custo-benefício para peças de hardware?
 - **Pergunta 10**:
-   - Possível entrevistado: ;
-   - Pergunta: 
+   - Possível entrevistado:  um educador ou professor de informática;
+   - Pergunta: Qual seria a melhor abordagem para educar usuários sobre configurações de hardware?
  
      
 
