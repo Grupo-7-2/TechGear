@@ -33,12 +33,6 @@ O público-alvo do sistema **TechGear** abrange qualquer pessoa interessada em a
 
 *<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
 
-| **Usuários** | Porcentagem | Faixa Etária | Gênero | Frequência de uso de PC | Nível de conhecimento sobre o hardware de um PC |
-| - | - | - | - | - | - |
-| **Usuários Leigos** | - | - | - | - | - |
-| **Usuários Experientes** | - | - | - | - | - |
-
-
 ***Personas:***
 ![Persona 1](1.jpg)
 ![Persona 1](2.jpg)
