@@ -71,6 +71,9 @@ Depois de aderir ao aplicativo, o usuário, agora introduzido a toda a interface
 | RF-06 | O sistema deve possuir um banco de dados online onde deve ser armazenado resultados de benchmark, configurações de peças e seus preços atualizados | Alta | - |
 | RF-07 | o sistema deve operar em conjunto com sites de compra de peças de hardware, mostrando os melhores preços e suas respectivas lojas. | Alta | - |
 | RF-08 | o sistema deve ser capaz de salvar as configurações e especificações dadas para uso posterior | Médio | - |
+| RF-09 | o sistema deve ser capaz de gerar outro relatório, fazendo outro questionário e ignorando as informações passadas no anterior | Médio | - |
+| RF-10 | o sistema deve ter implementado em si um questionário para que o mesmo entenda quais as necessidades do usuário e oferecer lhe a melhor configuração | Médio | - |
+
 
 ***2.2. Requisitos Não Funcionais***
 
@@ -136,6 +139,9 @@ Depois de aderir ao aplicativo, o usuário, agora introduzido a toda a interface
 | US-03 | RF-03 | Como usuário do sistema TechGear, gostaria que ele sugerisse as melhores combinações de peças compatíveis com o meu pc para melhorá-lo a fim de suprir as minhas necessidades | 
 | US-04 | RF-04 | Como usuário do sistema TechGear, gostaria que me ajudasse a montar uma nova configuração de pc baseado no meu uso e custo benefício | 
 | US-05 | RF-05 | Como usuário do sistema TechGear, gostaria que ele conseguisse entender as minhas necessidas, como será o meu uso etc... | 
+| US-06 | RF-06 | Como usuário do sistema TechGear, gostaria de ver quais as melhores opções de preço para fazer a melhor escolha de compra |
+| US-07 | RF-07 | Como usuário do sistema TechGear, gostaria de fazer o questionário diversas vezes, ignorando o anterior a fim de ter configurações diferentes para fins diferentes |
+
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
