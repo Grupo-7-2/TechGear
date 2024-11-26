@@ -63,14 +63,13 @@ Depois de aderir ao aplicativo, o usuário, agora introduzido a toda a interface
 
 | ID | Descrição | Prioridade | Depende de |
 | - | - | - | - |
-| RF-01 | O sistema deve ser capaz de gerar um relatório sobre o PC do usuário. | Média | RNF-10 |
+| RF-01 | O sistema deve entregar uma visão geral sobre a máquina do usuário, pontos positivos e negativos da sua máquinaa em relação à necessidade do usuário.  | Média | RNF-10 |
 | RF-02 | O sistema deve ser capaz de verificar a compatibilidade entre os componentes do sistema do usuário. | Alta | - |
 | RF-03 | O sistema deve ser capaz de sugerir as melhores combinações de peças para usuário, conforme a sua necessidade e as peças que o mesmo já possui. | Alta | RNF-10, RNF-04 |
 | RF-04 | O sistema deve permitir criar uma nova configuração de equipamento. | Alta | RNF-04 |
-| RF-05 | O sistema deve entregar uma visão geral sobre a máquina do usuário, pontos positivos e negativos da sua máquinaa em relação à necessidade do usuário. | Média | - |
-| RF-06 | O sistema também deve ser capaz de entender as necessidades do usuário a partir das informações dadas pelo mesmo. | Alta | - |
-| RF-07 | O sistema deve possuir um banco de dados online onde deve ser armazenado resultados de benchmark, configurações de peças e seus preços atualizados | Alta | - |
-| RF-08 | o sistema deve operar em conjunto com sites de compra de peças de hardware, mostrando os melhores preços e suas respectivas lojas. | Alta | - |
+| RF-05 | O sistema também deve ser capaz de entender as necessidades do usuário a partir das informações dadas pelo mesmo. | Alta | - |
+| RF-06 | O sistema deve possuir um banco de dados online onde deve ser armazenado resultados de benchmark, configurações de peças e seus preços atualizados | Alta | - |
+| RF-07 | o sistema deve operar em conjunto com sites de compra de peças de hardware, mostrando os melhores preços e suas respectivas lojas. | Alta | - |
 
 ***2.2. Requisitos Não Funcionais***
 
@@ -129,6 +128,13 @@ Depois de aderir ao aplicativo, o usuário, agora introduzido a toda a interface
 ***2.5. Histórias do Usuário***
 
 *<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*
+| ID User Story | Requisito Funcional | Descrição User Story |
+| - | - | - |
+| US-01 | RF-01 | Como usuário do sistema TechGear, gostaria que ele gerasse um relatório sobre o meu pc para que eu pudesse entender a composição do meu hardware, o que pode ser melhorado... | 
+| US-02 | RF-02 | Como usuário do sistema TechGear, gostaria que ele verificasse a compatibilidade dos componentes do meu pc com outras peças do mercado a fim de ter o conhecimento de quais peças eu posso comprar para melhorar o meu sistema | 
+| US-03 | RF-03 | Como usuário do sistema TechGear, gostaria que ele sugerisse as melhores combinações de peças compatíveis com o meu pc para melhorá-lo a fim de suprir as minhas necessidades | 
+| US-04 | RF-04 | Como usuário do sistema TechGear, gostaria que me ajudasse a montar uma nova configuração de pc baseado no meu uso e custo benefício | 
+| US-05 | RF-05 | Como usuário do sistema TechGear, gostaria que ele conseguisse entender as minhas necessidas, como será o meu uso etc... | 
 
 ***2.6. Diagramas de Caso de Uso e Especificações***
 
