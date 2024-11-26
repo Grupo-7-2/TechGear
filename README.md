@@ -70,6 +70,7 @@ Depois de aderir ao aplicativo, o usuário, agora introduzido a toda a interface
 | RF-05 | O sistema também deve ser capaz de entender as necessidades do usuário a partir das informações dadas pelo mesmo. | Alta | - |
 | RF-06 | O sistema deve possuir um banco de dados online onde deve ser armazenado resultados de benchmark, configurações de peças e seus preços atualizados | Alta | - |
 | RF-07 | o sistema deve operar em conjunto com sites de compra de peças de hardware, mostrando os melhores preços e suas respectivas lojas. | Alta | - |
+| RF-08 | o sistema deve ser capaz de salvar as configurações e especificações dadas para uso posterior | Médio | - |
 
 ***2.2. Requisitos Não Funcionais***
 
