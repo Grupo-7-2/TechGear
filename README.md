@@ -151,7 +151,7 @@ Depois de aderir ao aplicativo, o usuário, agora introduzido a toda a interface
 
 ***2.8. Diagrama de Classes***
 
-*<Imagem, arquivo (PDF), link com Matriz de Rastreabilidade.>*
+*<Imagem, arquivo (PDF)>*
 
 ***2.9. Protótipos***
 
