@@ -7,14 +7,14 @@ Link do Padlet: [Clique Aqui](https://padlet.com/pbittencourt1/kanban-v326mjk2sn
 
 ## 1. Introdução
 
-***1.1.  (Grupo 7)-2***
-
-[Leonardo Cruz](https://github.com/HiperD) |
-[Mathew Cayres](https://github.com/MattCayres) |
-[Vinicius Henrique](https://github.com/Vinicius-Henrique1609) |
-[Carlos Sert](https://github.com/CarlosSertF) |
-[Pedro Bittencourt](https://github.com/pBittencourtS)
-
+***1.1.  (Grupo 7)-2***  
+**Integrantes**:  
+- [Carlos Sert](https://github.com/CarlosSertF)  
+- [Leonardo Cruz](https://github.com/HiperD)  
+- [Mathew Cayres](https://github.com/MattCayres)  
+- [Pedro Bittencourt](https://github.com/pBittencourtS)  
+- [Vinicius Henrique](https://github.com/Vinicius-Henrique1609)
+ 
 ***1.2.  Nome do Sistema***
 
 **TechGear**
@@ -30,8 +30,6 @@ Um computador é um sistema complexo composto por várias peças que, juntas, po
 O público-alvo do sistema **TechGear** abrange qualquer pessoa interessada em adquirir ou melhorar computadores de forma eficiente, com foco no melhor custo-benefício. O sistema atende, por exemplo, usuários leigos, usuários experientes;
 
 ***1.5. Descrição dos usuários***
-
-*<Descrever quais os usuários finais do sistema (quem vai utilizar o sistema). Neste espaço vocês vão traçar um perfil de usuário, bem como as personas e análide de tarefas>*
 
 ***Personas:***
 ![Persona 1](1.jpg)
