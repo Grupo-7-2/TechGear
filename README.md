@@ -127,6 +127,9 @@ Depois de aderir ao aplicativo, o usuário, agora introduzido a toda a interface
 
 *<Arquivo com as respostas do indivíduo entrevistado e link do drive com upload da gravação.>*
 
+- [Entrevista 1](https://drive.google.com/file/d/1TjIQflnXaywo8-a3r243tetV4xSB8OWL/view?usp=sharing)
+- [Entrevista 2](https://drive.google.com/file/d/1uWwYJflMClhRUdM-_SJ9fHfL22d9iXOS/view?usp=sharing)
+
 ***2.5. Histórias do Usuário***
 
 *<Imagem, arquivo (PDF), link com as Histórias de Usuário.>*
