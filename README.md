@@ -37,9 +37,9 @@ O público-alvo do sistema **TechGear** abrange qualquer pessoa interessada em a
 
 ***Análise da situação atual: antes da introdução de sua solução***
 
-*`1. O que as pessoas fazem?`*
-*`2. Quais os artefatos envolvidos?`*
-*`3. O que elas precisam saber?`*
+*`1. Para montar um computador, normalmente a pessoa precisa gastar horas pesquisando`*
+*`2. Utilizando browsers de pesquisa`*
+*`3. Saber sobre componentes, se são compativeis e encontrar uma configuração balanceada para o que se destina`*
 
 ***Análise das tarefas depois: como serão executadas as suas tarefas com sua solução:***
 
